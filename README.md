@@ -9,7 +9,8 @@ This repository showcases a comparative study of machine learning algorithms for
 Models Compared: Includes Binary Logistic Regression, Binary Linear SVC, Binary Perceptron, and methods extended to multi-class scenarios.
 Evaluation: Uses metrics like accuracy, precision, recall, and F1-score to assess model performance.
 Dataset: Analysis performed on datasets tailored for classification tasks (details within the notebook).
-Quick Start
+
+### Quick Start
 
 The notebook contains all necessary code for setup, execution, and evaluation of the models. It's designed for easy replication and further exploration.
 
